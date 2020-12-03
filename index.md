@@ -1,9 +1,10 @@
-## Portfolio
+## About me
 
 ---
+My work focuses on Combustion Concepts that are relevent to low emissions, high efficiency and fuel flexibility of stationary gas turbines for power generation. I study the auto-ignition control mode using massively parallel Direct Numerical Simulations. These simulations generate huge data. So, I use different analyzing and visualization techniques to understand the flow physics.
 
-### Category Name 1 
-
+Apart from research, I am very much interested in sports. I like to play Football, Badminton and Cricket
+in particular, but I am up for any sports. I also like adventures sports like trekking and adventure camps.
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
