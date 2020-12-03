@@ -1,14 +1,14 @@
-## About me
-
+# About me
 ---
 I completed my Bachelor of Technology in Mechanical Engineering from Indian Institute of Technology (BHU) Varanasi in 2019 with GPA 8.01. In the same year, I joined Department of Computational and Data Sciences at Indian Institute of Science Bangalore as a M-Tech (Research) student. I am working under [Dr. Konduri Aditya](http://cds.iisc.ac.in/faculty/konduriadi/) in FLAME lab on stationary gas turbine combustion.
 
 Apart from research, I am very much interested in sports. I like to play Football, Badminton and Cricket in particular, but I am up for any sports. I also like adventures sports like trekking and adventure camps.
 
-
+# Projects
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Pressure scaling of reheat flame structure
+This work focuses on Combustion Concepts that are relevent to low emissions, high efficiency and fuel flexibility of stationary gas turbines for power generation. I study the auto-ignition control mode using massively parallel Direct Numerical Simulations. These simulations generate huge data. So, I use different analyzing and visualization techniques to understand the flow physics.
 
 ---
 [Project 3 Title](http://example.com/)
