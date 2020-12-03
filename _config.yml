@@ -5,13 +5,14 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   Department of Computational and Data Sciences,
   <br>
-  Indian Institute of Science Bangalore
+  Indian Institute of Science Bangalore (2019-present)
   <br><br>
-  Bachelor of Technology in Mechanical Engineering
+  Bachelor of Technology in Mechanical Engineering,
   <br>
-  Indian Institute of Technology (BHU) Varanasi
+  Indian Institute of Technology (BHU) Varanasi (2015-2019)
   <br><br>
   <a href="https://www.linkedin.com/in/akash-rodhiya-26057185/">View My LinkedIn Profile</a> 
   
+show_downloads: true
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
