@@ -14,11 +14,22 @@ Interests:
 
 
 <br>
-## Projects
+## Current Project
 ---
 
 ### Pressure scaling of reheat flame structure
 In this work, we did two-dimensional, direct numerical simulations at 3 different pressure levels (1, 5 and 10 bar) to understand pressure scaling of reheat flame structure. And also quantify the distribution of fractional fuel consumption rate on different modes of combustion using chemical explosive mode analysis (CEMA). 
+
+## Past Projects
+---
+
+### Thermal Energy storage Battery using Phase Change Material
+Battery storage of thermal energy was designed using phase change material. Simulations were performed on STAR CCM+ to compare different heat exchangers and final designed was analyzed using experiments. 
+
+
+### Pressure scaling of reheat flame structure
+In this work, we did two-dimensional, direct numerical simulations at 3 different pressure levels (1, 5 and 10 bar) to understand pressure scaling of reheat flame structure. And also quantify the distribution of fractional fuel consumption rate on different modes of combustion using chemical explosive mode analysis (CEMA). 
+
 
 
 
