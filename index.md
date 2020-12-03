@@ -1,10 +1,9 @@
 ## About me
 
 ---
-I completed my Bachelor of Technology in Mechanical Engineering from Indian Institute of Technology (BHU) Varanasi in 2019 with GPA 8.01. In the same year, I joined Department of Computational and Data Sciences at Indian Institute of Science Bangalore as a M-Tech (Research) student. I started working under [Dr. Konduri Aditya](http://cds.iisc.ac.in/faculty/konduriadi/) in FLAME lab on gas turbine combustion.
+I completed my Bachelor of Technology in Mechanical Engineering from Indian Institute of Technology (BHU) Varanasi in 2019 with GPA 8.01. In the same year, I joined Department of Computational and Data Sciences at Indian Institute of Science Bangalore as a M-Tech (Research) student. I am working under [Dr. Konduri Aditya](http://cds.iisc.ac.in/faculty/konduriadi/) in FLAME lab on stationary gas turbine combustion.
 
-Apart from research, I am very much interested in sports. I like to play Football, Badminton and Cricket
-in particular, but I am up for any sports. I also like adventures sports like trekking and adventure camps.
+Apart from research, I am very much interested in sports. I like to play Football, Badminton and Cricket in particular, but I am up for any sports. I also like adventures sports like trekking and adventure camps.
 
 
 ---
