@@ -17,7 +17,7 @@ Interests:
 ## Current Project
 
 ### Pressure scaling of reheat flame structure
-In this work, we did two-dimensional, direct numerical simulations at 3 different pressure levels (1, 5 and 10 bar) to understand pressure scaling of reheat flame structure. And also quantify the distribution of fractional fuel consumption rate on different modes of combustion using chemical explosive mode analysis (CEMA). 
+In this work, we are doing direct numerical simulations at different pressure levels (1, 5 and 10 bar) to understand pressure scaling of reheat flame structure. And also quantify the distribution of fractional fuel consumption rate on different modes of combustion using chemical explosive mode analysis (CEMA). 
 
 ## Past Projects
 
@@ -33,11 +33,6 @@ Vapor chamber with given dimension constraints and heat flux was designed with t
 Reverse osmosis water purified was developed which was powered from a gym equipment (cycle for this project). Most of the parts were used from existing RO purifier exploiting interchangeability.
 
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Category Name 2
 
